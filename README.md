@@ -1,5 +1,5 @@
 👋 Hi, I'm David!
-- 👀 I’m interested in AI and Software Development
+- 👀 I’m interested in GameDev, AI and Software Development
 - 🌱 I’m currently studying CS
 - 📫 How to reach me ...
 
