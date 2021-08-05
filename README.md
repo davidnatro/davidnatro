@@ -8,7 +8,7 @@
 
 - Unity 3D Junior developer
 
-[![Badge](https://github.com/yeview/yeview/blob/main/assets/UJP.png =100x100)]()
+<img src="https://github.com/yeview/yeview/blob/main/assets/UJP.png" width="100" height="100">
 
 ### My google play profile 
 - https://play.google.com/store/apps/developer?id=Marquess
