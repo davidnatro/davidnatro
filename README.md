@@ -10,9 +10,10 @@
 <img src="https://github.com/yeview/yeview/blob/main/assets/UJP.png" width="100" height="100">
 
 ### Google play profile 
-- https://play.google.com/store/apps/developer?id=Marquess
+- [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Marquess)
+
 ### App store profile
-- //soon
+- ![App Store](https://img.shields.io/badge/Soon-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)
 
 ## Best uploaded projects are pinned
 
@@ -23,7 +24,8 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
 <!---
