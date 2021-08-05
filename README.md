@@ -1,9 +1,11 @@
+#
+
 [![Header](https://github.com/yeview/yeview/blob/main/assets/IMG_3174.PNG)]()
 
 #
 
 ## 👋 Hi, I'm David!
-## a junior Unity 3D Game Developer and just a guy who is:
+# a junior Unity 3D Game Developer and just a guy who is:
 - 👀 interested in GameDev, AI and Software Development
 - 🌱 currently studying Computer Science at HSE University in Moscow
 
