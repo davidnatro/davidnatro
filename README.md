@@ -6,9 +6,9 @@
 
 ## 👋 Hi, I'm David!
 # a junior Unity 3D Game Developer and just a guy who is:
-- 👀 interested in GameDev, AI and Software Development
-- 🌱 currently studying Computer Science at HSE University in Moscow
-
+- interested in GameDev, AI and Software Development
+- currently studying Computer Science at HSE University in Moscow
+#
 ### My google play profile 
 - https://play.google.com/store/apps/developer?id=Marquess
 
