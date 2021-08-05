@@ -5,14 +5,21 @@
 #
 
 ## 👋 Hi, I'm David!
-# a junior Unity 3D Game Developer and just a guy who is:
-- interested in GameDev, AI and Software Development
-- currently studying Computer Science at HSE University in Moscow
-#
+
+- Unity 3D Junior developer
+
+[![Badge]()](https://github.com/yeview/yeview/blob/main/assets/UJP.png)
+
 ### My google play profile 
 - https://play.google.com/store/apps/developer?id=Marquess
+### My App store profile
+- //soon
 
-Best project
+# Best projects:
+- https://play.google.com/store/apps/developer?id=Marquess
+-
+-
+-
 
 # Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity3D-090909?style=for-the-badge&logo=unity)
