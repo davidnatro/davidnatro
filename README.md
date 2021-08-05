@@ -14,11 +14,7 @@
 ### App store profile
 - //soon
 
-# Best projects:
-- https://play.google.com/store/apps/developer?id=Marquess
--
--
--
+## Best uploaded projects are pinned
 
 # Languages and Tools
 ![Unity](https://img.shields.io/badge/-Unity3D-090909?style=for-the-badge&logo=unity)
