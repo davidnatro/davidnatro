@@ -1,7 +1,7 @@
 👋 Hi, I'm David!
 - 👀 I’m interested in GameDev, AI and Software Development
-- 🌱 I’m currently studying CS at HSE University in Moscow
-- 📫 How to reach me ? You can find my insta in the links and message anything you want to.
+- 🌱 I’m currently studying Computer Science at HSE University in Moscow
+- 📫 How to reach me ? You can find my insta in the links and message me anything you want to.
 - My google play profile https://play.google.com/store/apps/developer?id=Marquess
 
 <!---
