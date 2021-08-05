@@ -5,14 +5,13 @@
 #
 
 ## 👋 Hi, I'm David!
-
 - Unity 3D Junior developer
 
 <img src="https://github.com/yeview/yeview/blob/main/assets/UJP.png" width="100" height="100">
 
-### My google play profile 
+### Google play profile 
 - https://play.google.com/store/apps/developer?id=Marquess
-### My App store profile
+### App store profile
 - //soon
 
 # Best projects:
