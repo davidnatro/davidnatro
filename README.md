@@ -23,7 +23,6 @@ Best project
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-Follow me
 
 <!---
 yeview/yeview is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
