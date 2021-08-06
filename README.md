@@ -7,7 +7,7 @@
 ### 👋 Hi, I'm David!
 - Unity 3D Junior developer
 
-<img src="https://github.com/yeview/yeview/blob/main/assets/UJP.png" width="100" height="100">
+<a href="https://learn.unity.com/pathway/junior-programmer"><img src="https://github.com/yeview/yeview/blob/main/assets/UJP.png" width="100" height="100"></a>
 
 ### Google play profile 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Marquess)
