@@ -18,13 +18,13 @@
 ## Best projects from courses are pinned || Personal projects are in Google play only
 
 # Languages and Tools
-[![Unity](https://img.shields.io/badge/-Unity3D-090909?style=for-the-badge&logo=unity)](https://unity.com)
 [![C#](https://img.shields.io/badge/-C%23-%234B275F.svg?style=for-the-badge&logo=C-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![MySQL](https://img.shields.io/badge/mysql-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Unity](https://img.shields.io/badge/-Unity3D-090909?style=for-the-badge&logo=unity)](https://unity.com)
+[![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 <!--- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) --->
 
 
