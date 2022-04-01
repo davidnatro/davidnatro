@@ -1,13 +1,7 @@
 #
 
-[![Header](https://github.com/yeview/yeview/blob/main/assets/IMG_3174.PNG)]()
-
-#
-
 ### 👋 Hi, I'm David!
-- Unity 3D Junior developer
-
-<a href="https://learn.unity.com/pathway/junior-programmer"><img src="https://github.com/yeview/yeview/blob/main/assets/UJP.png" width="100" height="100"></a>
+- Junior C# Backend Developer
 
 ### Google play profile 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Marquess)
@@ -15,20 +9,16 @@
 ### App store profile
 [![App Store](https://img.shields.io/badge/Soon-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://www.apple.com/app-store/)
 
-## Best projects from courses are pinned || Personal projects are in Google play only
-
-# Languages and Tools
+# My Tools
 [![C#](https://img.shields.io/badge/-C%23-%234B275F.svg?style=for-the-badge&logo=C-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![MySQL](https://img.shields.io/badge/mysql-%2300599C.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
+[![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://www.jetbrains.com/rider/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+[![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com/downloads/)
+[![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)](https://www.microsoft.com/en-gb/sql-server/sql-server-downloads)
+[![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
+[![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io)
 [![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
 [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![Unity](https://img.shields.io/badge/-Unity3D-090909?style=for-the-badge&logo=unity)](https://unity.com)
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-<!--- ![Visual Studio](https://img.shields.io/badge/VisualStudio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) --->
-
-
-<!---
-yeview/yeview is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
