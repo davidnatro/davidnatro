@@ -9,7 +9,7 @@
 ### App store profile
 [![App Store](https://img.shields.io/badge/Soon-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://www.apple.com/app-store/)
 
-# Tools
+# My Tools
 [![C#](https://img.shields.io/badge/-C%23-%234B275F.svg?style=for-the-badge&logo=C-sharp)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)](https://www.jetbrains.com/rider/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
