@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm David!
 - Junior C# Backend Developer
-> You can find my projects in the "pinned repositories" sections
+  > You can find my projects in the "pinned repositories" sections
 
 ### Google play profile 
 [![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Marquess)
