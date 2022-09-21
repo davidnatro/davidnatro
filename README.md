@@ -1,6 +1,9 @@
 #
 
-### 👋 Hi, I'm David!
+### 👋 Hi, I'm David! 
+
+### :page_facing_up: [CV](Docs/CV.pdf)
+
 - Junior C# Backend Developer
   > You can find my projects in the "pinned repositories" sections
   
