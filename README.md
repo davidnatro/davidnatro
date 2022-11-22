@@ -4,7 +4,7 @@
 
 ### :page_facing_up: [CV](Docs/CV.pdf)
 
-- Junior C# Backend Developer
+- Junior Backend Developer
 
   > You can find my projects in the "pinned repositories" sections
   
