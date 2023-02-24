@@ -14,7 +14,7 @@
 ### App store profile
 [![App Store](https://img.shields.io/badge/Soon-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://www.apple.com/app-store/)
 
-# My Tools
+# Tools
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/uk/java/)
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
 [![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/)
