@@ -2,17 +2,7 @@
 
 ### 👋 Hi, I'm David! 
 
-### :page_facing_up: [CV](Docs/CV.pdf)
-
 - Junior Software Developer
-
-  > You can find my projects in the "pinned repositories" sections
-  
-### Google play profile 
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Marquess)
-
-### App store profile
-[![App Store](https://img.shields.io/badge/Soon-App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://www.apple.com/app-store/)
 
 # Tools
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
