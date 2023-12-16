@@ -27,3 +27,7 @@
 [![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com)
 [![Unity](https://img.shields.io/badge/-Unity3D-090909?style=for-the-badge&logo=unity)](https://unity.com)
 [![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
+## LeetCode stats
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/davidnatro?theme=nord)](https://leetcode.com/davidnatro/)
