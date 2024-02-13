@@ -2,7 +2,7 @@
 
 ### 👋 Hi, I'm David! 
 
-- Junior Software Developer
+- Junior Software Engineer
 
 # Tools
 [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io)
